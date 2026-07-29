@@ -34,11 +34,6 @@ A Music Controller application designed to provide seamless music playback contr
 
 3. Run the application:
 
-   ```bash
-   python main.py
-   ```
-
-   _Or refer to the documentation for your platform-specific startup instructions._
 
 ## Usage
 
